@@ -1,0 +1,7 @@
+https://teachablemachine.withgoogle.com/models/eb1be5NhH/model.json
+
+
+Classes:
+Happy
+Sad
+Angry
