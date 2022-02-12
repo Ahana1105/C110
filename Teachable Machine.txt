@@ -1,5 +1,4 @@
-https://teachablemachine.withgoogle.com/models/eb1be5NhH/model.json
-
+https://teachablemachine.withgoogle.com/models/4dFOSo4nk/
 
 Classes:
 Happy

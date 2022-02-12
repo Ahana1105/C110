@@ -16,10 +16,13 @@ span
 #result_emotion_name ,#result_emotion_name2  
 {
   color: black;
+  font-family:'Times New Roman', Times, serif
 }
 .emotion_name
 {
-  font-size: 40px;
+  font-size: 30px;
+  background-color: darkturquoise;
+  border-radius: 8px;
 }
 .emoji
 {
@@ -33,4 +36,10 @@ span
   color:deeppink;
   border-width:5px;
 border-color:black;
+}
+
+label {
+  font-family :Georgia, 'Times New Roman', Times, serif;
+  color:mediumvioletred;
+  font-size: 20px;
 }
